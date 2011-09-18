@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-31 18:32+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Leo Trubach <leotrubach@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: quiz.py:55
+msgid "TIMESTAMP: {ts}\n"
+msgstr "ДАТА И ВРЕМЯ: {ts}\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: quiz.py:56
+msgid "User: {user}\n"
+msgstr "Пользователь: {user} \n"
+
+#: quiz.py:58
+msgid "QUESTION: {q}\n"
+msgstr "ВОПРОС: {q}\n"
+
+#: quiz.py:60
+msgid ""
+"ANSWER: not given\n"
+"\n"
+msgstr ""
+"ОТВЕТ: дан не был\n"
+"\n"
+
+#: quiz.py:63
+msgid "GIVEN ANSWER: {a}\n"
+msgstr "ВЫБРАН ОТВЕТ: {a}\n"
+
+#: quiz.py:66
+msgid ""
+"POINTS: {p}\n"
+"\n"
+msgstr ""
+"БАЛЛ: {p}\n"
+"\n"
+
+#: quiz.py:68
+msgid "TOTAL POINTS: {p}\n"
+msgstr "ВСЕГО ПРАВИЛЬНЫХ ОТВЕТОВ: {p}\n"
+
+#: quiz.py:69
+msgid "CORRECT ANSWER PERCENTAGE: {p:.2f}%\n"
+msgstr "ПРОЦЕНТ ПРАВИЛЬНЫХ ОТВЕТОВ: {p:.2f}%\n"
+
+#: quiz.py:71
+msgid "EXAM PASSED\n"
+msgstr "ТЕСТ ПРОЙДЕН\n"
+
+#: quiz.py:73
+msgid "EXAM FAILED\n"
+msgstr "ТЕСТ НЕ ПРОЙДЕН\n"
+
+#: tester.py:19
+msgid "Introduction"
+msgstr "Введение"
+
+#: tester.py:21
+msgid "Welcome to Tester. Press Next button to start"
+msgstr "Добро пожаловать в Tester. Нажмите кнопку Далее для начала"
+
+#: tester.py:78
+msgid "Registration"
+msgstr "Авторизация"
+
+#: tester.py:79
+msgid "Please enter your information"
+msgstr "Пожалуйста, введите свои данные"
+
+#: tester.py:92
+msgid "Enter your table number:"
+msgstr "Введите Ваш табельный номер:"
+
+#: tester.py:109
+msgid "I CONFIRM THAT I AM {name}"
+msgstr "Я подтверждаю что я - {name}"
+
+#: tester.py:153
+msgid "Last chance"
+msgstr "Последняя возможность"
+
+#: tester.py:155
+msgid "Press commit button to get the results of test"
+msgstr "Нажмите кнопку Подтвердить, чтобы получить результаты тестирования"
+
+#: tester.py:168
+msgid "Conclusion"
+msgstr "Результат"
+
+#: tester.py:170
+msgid "Done "
+msgstr "Готово"
+
+#: tester.py:179
+msgid ""
+"Thanks for submitting test results. Your results are sent to administration"
+msgstr "Спасибо за заполнение теста. Ваши результаты отправлены руководству."
+
+#: tester.py:233
+msgid "Password request"
+msgstr "Запрос пароля"
+
+#: tester.py:233
+msgid "Enter password to close tester"
+msgstr "Введите пароль для того, чтобы закрыть программу тестирования"
+
+#: tester.py:249
+msgid "Question {n}"
+msgstr "Вопрос {n}"
+
+#: tester.py:275
+msgid "Next"
+msgstr "Далее"
+
+#: tester.py:276
+msgid "Back"
+msgstr "Назад"
+
+#: tester.py:277
+msgid "Finish"
+msgstr "Закончить"
+
+#: tester.py:278
+msgid "Commit"
+msgstr "Подтвердить"
+
+#~ msgid "Username:"
+#~ msgstr "Имя пользователя:"
+
+#~ msgid "Here are the result of you test"
+#~ msgstr "Ниже приведен результат вашего тестирования"

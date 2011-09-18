@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric5 project file for project tester -->
+<!-- Saved: 2011-09-17, 20:05:01 -->
+<!-- Copyright (C) 2011 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>418a9b4046f4d776d91321339677a51d7be1368e</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>tester.py</Source>
+    <Source>driverbase.py</Source>
+    <Source>quiz.py</Source>
+    <Source>sender.py</Source>
+    <Source>settings.py</Source>
+    <Source>testcodec.py</Source>
+    <Source>__init__.py</Source>
+    <Source>viewer.py</Source>
+    <Source>exam_result.pyw</Source>
+  </Sources>
+  <Forms/>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others/>
+  <MainScript>D:/tester/tester.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+  </FiletypeAssociations>
+</Project>
